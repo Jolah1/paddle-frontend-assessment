@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import Image from '/metricks-white.png'
+import logo from './logo.png'
 import styles from './navbar.module.css'
 
 
@@ -11,7 +11,7 @@ const Navbar = () => {
 
               <Link to='/comingsoon'>
                     <div className={styles.logo}>
-                        <img src={Image} alt="gratis-logo" className={styles.gratisLogo} />
+                        <img src={logo} alt="gratis-logo" className={styles.gratisLogo} />
                     </div>
               </Link>
 
