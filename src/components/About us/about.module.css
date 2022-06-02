@@ -1,0 +1,145 @@
+.aboutContainer{
+    width: 100%;
+    height: 100%;
+}
+
+.glass{
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0.08), rgba(255, 255, 255, 0.15));
+    margin-top: 60px;
+    max-width: 700px;
+    height: 500px;
+    margin-left: -95px;
+    margin-bottom: 60px;
+    position: relative;
+}
+
+.about{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 130px;
+    color: #b8b8b8;
+    position: absolute;
+    top: 35%;
+    right: 31%;
+}
+
+.line{
+    width: 50px;
+    height: 1.5px;
+    background-color: white;
+}
+
+.heading{
+    width: 420px;
+    font-size: 40px;
+    font-family: calibri;
+    font-weight: lighter;
+    color: #b8b8b8;
+    position: absolute;
+    right: -25%;
+    top: 38%;
+}
+
+.introduction{
+    width: 300px;
+    height: auto;
+    text-align: justify;
+    color: #b8b8b8;
+    position: absolute;
+    right: -50%;
+    bottom: 0;
+    font-family: calibri;
+}
+
+.value{
+    font-family: calibri;
+    color: rgb(201, 200, 200);
+    margin-left: 50px;
+    max-width: 730px;
+    text-align: justify;
+    font-size: 27px;
+    margin-bottom: 50px;
+}
+
+.columns{
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: auto;
+}
+.column1, .column2{
+    text-align: justify;
+    color: #b8b8b8;
+    font-family: calibri;
+    margin-bottom: 50px;
+}
+
+.column1{
+    max-width: 370px;
+    margin-left: 100px;
+}
+
+.column1, .column2 p{
+    margin-bottom: 35px;
+}
+
+.column2{
+    max-width: 600px;
+    background-color: rgba(255, 255, 255, 0.08);
+    padding: 30px 90px 15px 40px;
+    /* margin-right: 102px; */
+}
+
+.header{
+    display: flex;
+    align-items: flex-end;
+    width: auto;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+.number{
+    height: 28px;
+}
+.number span{
+    margin-bottom: 8px;
+    margin-left: 5px;
+}
+
+.dots{
+    margin-top: 70px;
+}
+
+.question{
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.08);
+    padding: 35px 50px;
+    font-family: calibri;
+    color: #b8b8b8;
+    height: auto;
+}
+
+.question h2{
+    margin: 10px 0;
+}
+
+.link{
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+    width: auto;
+    gap: 10px;
+    height: 20px;
+    color: rgb(146, 6, 36);
+}
+
+.link a{
+    color: rgb(146, 6, 36);
+}
+
+.link span{
+    margin-top: 8px;
+}

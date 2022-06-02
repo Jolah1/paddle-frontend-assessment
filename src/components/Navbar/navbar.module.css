@@ -1,0 +1,42 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    color: white;
+    font-weight: bolder;
+    margin: 0 6rem;
+}
+
+a{
+    color: white;
+}
+
+ul{
+    list-style-type: none;
+}
+
+ul li{
+    display: inline;
+    margin: 0 12px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: lighter;
+    font-size: small;
+}
+
+.active{
+    background-color: rgb(30, 18, 136);
+    border-radius: 50px;
+    padding: 6px;
+}
+
+.logo{
+    width: 80px;
+    height: 70px;
+}
+
+.gratisLogo{
+    width: 30%;
+    border-radius: 5px;
+}

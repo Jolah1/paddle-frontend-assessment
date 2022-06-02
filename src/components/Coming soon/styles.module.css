@@ -1,0 +1,93 @@
+.comingSoon{
+    color: rgb(173, 167, 167);
+    margin: 40px auto;
+    text-align: center;
+}
+
+.comingSoon h1{
+    text-transform: uppercase;
+    font-size: 40px;
+    font-weight: 300px;
+    margin-bottom: 18px;
+}
+
+.countdown{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box{
+    margin: 5px 8px;
+    text-align: center;
+    background-color: white;
+    padding: 15px;
+    border: none;
+    border-radius: 6px;
+    max-width: 500px;
+    width: 90px;
+    height: 100px;
+}
+.box h1{
+    margin-bottom: 8px;
+}
+
+.container{
+    max-width: 500px;
+    margin: auto;
+}
+
+.formContainer{
+    margin: 25px 0;
+}
+
+.input{
+    border: none;
+    outline: none;
+    color: white;
+    background: none;
+    border-bottom: 1.5px solid white;
+    padding: 12px;
+    width: 100%; 
+    border-radius: 0;
+}
+
+.inputs{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    max-width: 410px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+input{
+    width: 100%;
+    background-color: none;
+    border: none;
+    border-radius: 60px;
+    padding: 15px;
+    outline: none;
+}
+
+ .submitBtn{
+    border: none;
+    background: none;
+    color: white;
+    background-color: rgb(30, 18, 136);
+    border-radius: 60px;
+    padding: 15px;
+    position: absolute;
+    right: 0px;
+    outline: none;
+    cursor: pointer;
+    font-weight: bold;
+    width: 40%;
+}  
+
+.submit{
+    position: relative;
+}
+
+

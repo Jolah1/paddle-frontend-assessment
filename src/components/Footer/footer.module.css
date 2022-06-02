@@ -1,0 +1,23 @@
+.icons {
+    margin: 10px 20px;
+}
+
+.icons a {
+    color: white;
+    margin: 7px 15px;
+    font-size: 1.3rem;
+}
+
+.terms {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    justify-content: center;
+    margin-bottom: 25px;
+}
+
+footer {
+    text-align: center;
+    color: white;
+    margin: 50px;
+}

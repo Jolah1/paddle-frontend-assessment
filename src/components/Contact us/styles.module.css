@@ -1,0 +1,80 @@
+.modal{
+    position: relative;
+    width: 100%;
+    background-color: rgba(54, 12, 12, 0.3);
+    margin-top: -103px;
+    height: 100%;
+    z-index: 5;
+}
+
+.formContainer{
+    position: relative;
+    width: 50%;
+    height: auto;
+    background-color: rgb(8, 8, 41);
+    left: 50%;
+    padding: 65px 45px;
+    color: white;
+}
+
+.heading h2{
+    text-align: center;
+    width: 370px;
+    letter-spacing: 2px;
+    margin-bottom: 30px;
+
+}
+
+.form{
+    background: white;
+    border-radius: 3px;
+    padding: 12px;
+    width: 100%;
+    margin: 12px 0;
+    border: none;
+    outline: none;
+    border-bottom: 0px solid #ededed;
+}
+
+textarea{
+    width: 100%;
+    border: none;
+    border-radius: 3px;
+    margin: 10px 0;
+    resize: none;
+    outline: none;
+    padding: 18px;
+}
+
+.iconContainer{
+    position: absolute;
+    top: 10px;
+    color: rgb(6, 6, 22);
+    left: 48%;
+    background-color: white;
+    border-radius: 50px;
+    padding: 17px;
+    width: 50px;
+    height: 50px;
+}
+
+.forward-icon{
+    background-color: white;
+    border-radius: 50%;
+    padding: 11 px;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+}
+
+.submitButton{
+    background-color: rgb(27, 27, 158);
+    padding: 0px 12px;
+    width: 120px;
+    border-radius: 25px;
+}
+.submitBtn{
+    color: white;
+    background: transparent;
+    border: none;
+}
