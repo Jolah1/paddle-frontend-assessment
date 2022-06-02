@@ -11,7 +11,8 @@ const Navbar = () => {
 
               <Link to='/comingsoon'>
                     <div className={styles.logo}>
-                        <img src={logo} alt="gratis-logo" className={styles.gratisLogo} />
+                    <img src={logo} alt="metricks" className={styles.metricks} />
+                    <p className='par'>METRICKS</p>
                     </div>
               </Link>
 
@@ -19,7 +20,7 @@ const Navbar = () => {
                   <ul>
                       <Link to='/about'><li>About Us</li></Link>
                       <Link to='/blog'><li>Blog</li></Link>
-                      <Link to='/contact' className='active'><li>Contact Us</li></Link>
+                     <button id='btn'> <Link to='/contact' className='active'><li>Contact Us</li></Link></button>
                   </ul>
               </div>
 
