@@ -6,15 +6,16 @@ This is a coming soon landing page for an Information Technology company. That d
 
 ## Built with:
 
-This project was bootstrapped with react js and react router
+- This project was bootstrapped with React.js
+- React router
 
 ## How to run this Application
 
 - Git clone this repository
 - cd to the root directory of the project
-- Open with a code editor
-- run npm install
-- run npm start
+- Open the downloaded folder in your code editor
+- install all the dependencies by running 'npm install' in your terminal
+- Then run 'npm start' to keep the project running on the local host 3000
 
 ## Project Live link
 
