@@ -11,7 +11,7 @@
     position: relative;
     width: 50%;
     height: auto;
-    background-color: rgb(8, 8, 41);
+    background-color: rgb(8, 8, 83);
     left: 50%;
     padding: 65px 45px;
     color: white;
@@ -49,7 +49,7 @@ textarea{
 .iconContainer{
     position: absolute;
     top: 10px;
-    color: rgb(6, 6, 22);
+    color: rgb(15, 15, 56);
     left: 48%;
     background-color: white;
     border-radius: 50px;
@@ -68,7 +68,7 @@ textarea{
 }
 
 .submitButton{
-    background-color: rgb(27, 27, 158);
+    background-color: rgb(57, 57, 201);
     padding: 0px 12px;
     width: 120px;
     border-radius: 25px;

@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import {FaArrowRight} from 'react-icons/fa'
 import styles from './blog.module.css'
-import image from './sweet.jpeg'
+import image from './lady.jpg'
 
 
 
@@ -45,9 +45,9 @@ const Blog = () => {
                 <div className={styles.card}>
                           <img src={image} alt="card image" className={styles.cardImage} />
                           <div className={styles.date}>
-                            <small>SEPTEMBER 6, 2021</small>
+                            <small>JUNE 3, 2022</small>
                             <small>FETURED ARTICLE</small>
-                            <small>AFFLIATE</small>
+                            <small>AFFILIATE</small>
                           </div>
 
                           <div className={styles.cardTitle}>
@@ -68,32 +68,9 @@ const Blog = () => {
                 <div className={styles.card}>
                           <img src={image} alt="card image" className={styles.cardImage} />
                           <div className={styles.date}>
-                            <small>SEPTEMBER 6, 2021</small>
+                            <small>JUNE 3, 2022</small>
                             <small>FETURED ARTICLE</small>
-                            <small>AFFLIATE</small>
-                          </div>
-
-                          <div className={styles.cardTitle}>
-                            <h3>12 Popup Use Cases To Increase Conversations</h3>
-                          </div>
-
-                          <div className={styles.cardContent}>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi neque ad dolores doloremque facilis quibusdam recusandae cupiditate id, repellat consectetur, corporis, quisquam itaque dolorem. Dicta ut vel cum.</p>
-                          </div>
-
-                          <div className={styles.more}>
-                              <div className={styles.lines}></div>
-                              <p>READ MORE</p>
-                          </div>
-                </div>
-
-          
-                <div className={styles.card}>
-                          <img src={image} alt="card image" className={styles.cardImage} />
-                          <div className={styles.date}>
-                            <small>SEPTEMBER 6, 2021</small>
-                            <small>FETURED ARTICLE</small>
-                            <small>AFFLIATE</small>
+                            <small>AFFILIATE</small>
                           </div>
 
                           <div className={styles.cardTitle}>
@@ -114,9 +91,32 @@ const Blog = () => {
                 <div className={styles.card}>
                           <img src={image} alt="card image" className={styles.cardImage} />
                           <div className={styles.date}>
-                            <small>SEPTEMBER 6, 2021</small>
+                            <small>JUNE 3, 2022</small>
                             <small>FETURED ARTICLE</small>
-                            <small>AFFLIATE</small>
+                            <small>AFFILIATE</small>
+                          </div>
+
+                          <div className={styles.cardTitle}>
+                            <h3>12 Popup Use Cases To Increase Conversations</h3>
+                          </div>
+
+                          <div className={styles.cardContent}>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi neque ad dolores doloremque facilis quibusdam recusandae cupiditate id, repellat consectetur, corporis, quisquam itaque dolorem. Dicta ut vel cum.</p>
+                          </div>
+
+                          <div className={styles.more}>
+                              <div className={styles.lines}></div>
+                              <p>READ MORE</p>
+                          </div>
+                </div>
+
+          
+                <div className={styles.card}>
+                          <img src={image} alt="card image" className={styles.cardImage} />
+                          <div className={styles.date}>
+                            <small>JUNE 3, 2022</small>
+                            <small>FETURED ARTICLE</small>
+                            <small>AFFILIATE</small>
                           </div>
 
                           <div className={styles.cardTitle}>
@@ -136,9 +136,9 @@ const Blog = () => {
                 <div className={styles.card}>
                           <img src={image} alt="card image" className={styles.cardImage} />
                           <div className={styles.date}>
-                            <small>SEPTEMBER 6, 2021</small>
+                            <small>JUNE 3, 2022</small>
                             <small>FETURED ARTICLE</small>
-                            <small>AFFLIATE</small>
+                            <small>AFFILIATE</small>
                           </div>
 
                           <div className={styles.cardTitle}>
@@ -158,9 +158,9 @@ const Blog = () => {
                 <div className={styles.card}>
                           <img src={image} alt="card image" className={styles.cardImage} />
                           <div className={styles.date}>
-                            <small>SEPTEMBER 6, 2021</small>
+                            <small>JUNE 3, 2022</small>
                             <small>FETURED ARTICLE</small>
-                            <small>AFFLIATE</small>
+                            <small>AFFILIATE</small>
                           </div>
 
                           <div className={styles.cardTitle}>
@@ -192,9 +192,9 @@ const Blog = () => {
               <div className={styles.cardContainer}>
                       <div className={styles.card}>
                                 <div className={styles.date}>
-                                  <small>SEPTEMBER 6, 2021</small>
+                                  <small>JUNE 3, 2022</small>
                                   <small>FETURED ARTICLE</small>
-                                  <small>AFFLIATE</small>
+                                  <small>AFFILIATE</small>
                                 </div>
 
                                 <div className={styles.cardTitle}>
@@ -214,9 +214,9 @@ const Blog = () => {
 
                       <div className={styles.card}>
                                 <div className={styles.date}>
-                                  <small>SEPTEMBER 6, 2021</small>
+                                  <small>JUNE 3, 2022</small>
                                   <small>FETURED ARTICLE</small>
-                                  <small>AFFLIATE</small>
+                                  <small>AFFILIATE</small>
                                 </div>
 
                                 <div className={styles.cardTitle}>
@@ -236,9 +236,9 @@ const Blog = () => {
                 
                       <div className={styles.card}>
                                 <div className={styles.date}>
-                                  <small>SEPTEMBER 6, 2021</small>
+                                  <small>JUNE 3, 2022</small>
                                   <small>FETURED ARTICLE</small>
-                                  <small>AFFLIATE</small>
+                                  <small>AFFILIATE</small>
                                 </div>
 
                                 <div className={styles.cardTitle}>

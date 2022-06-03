@@ -89,8 +89,8 @@
     padding: 10px;
     justify-content: space-between;
     font-family: calibri;
-    border-radius: 3px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(177, 31, 200, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     margin-bottom: 35px;
 }
 

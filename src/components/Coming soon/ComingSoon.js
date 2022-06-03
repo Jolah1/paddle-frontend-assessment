@@ -15,22 +15,22 @@ const ComingSoon = () => {
 
                 <div className={styles.countdown}>
                     <div className={styles.box}>
-                        <h1>7</h1>
+                        <h1>9</h1>
                         <p>Days</p>
                     </div>
 
                     <div className={styles.box}>
-                        <h1>24</h1>
+                        <h1>10</h1>
                         <p>Hours</p>
                     </div>
 
                     <div className={styles.box}>
-                        <h1>54</h1>
+                        <h1>51</h1>
                         <p>Minutes</p>
                     </div>
 
                     <div className={styles.box}>
-                        <h1>11</h1>
+                        <h1>13</h1>
                         <p>Seconds</p>
                     </div>
 

@@ -1,5 +1,5 @@
 .comingSoon{
-    color: rgb(173, 167, 167);
+    color: rgb(242, 235, 235);
     margin: 40px auto;
     text-align: center;
 }
@@ -75,7 +75,7 @@ input{
     border: none;
     background: none;
     color: white;
-    background-color: rgb(30, 18, 136);
+    background-color: rgb(58, 16, 77);
     border-radius: 60px;
     padding: 15px;
     position: absolute;

@@ -19,13 +19,13 @@ const About = () => {
         </div>
 
         <div className={styles.introduction}>
-            <p>Our tools are easy to set up and use witha user-friendly dashboard that enables you to set up, launch, automate and manage multi-affliate campaigns in 5 minutes</p>
+            <p>Our tools are easy to set up and use with a user-friendly dashboard that enables you to set up, launch, automate and manage multi-affiliate campaigns in 5 minutes.</p>
         </div>
       </div>
 
 
       <div className={styles.value}>
-        <h2>Metric was developed because just like you, we needed a product that could give us <strong>good value</strong>.</h2>
+        <h2>Metricks was developed because just like you, we needed a product that could give us <strong>good value</strong>.</h2>
       </div>
 
 
@@ -44,7 +44,7 @@ const About = () => {
               </div>
 
               <p>
-                We pride ourselves in our ability to innovate and create world-class tools that provide reliable and efficient touchpoints between advertisers and affliates.
+                We pride ourselves in our ability to innovate and create world-class tools that provide reliable and efficient touchpoints between advertisers and affiliates.
               </p>
               
               <div className={styles.dots}>
@@ -86,7 +86,7 @@ const About = () => {
 
       <div className={styles.question}>
         <h2>Got a Question?</h2>
-        <p>See how Metrics can help your business grow with best affliate marketing tracking software.</p>
+        <p>See how Metricks can help your business grow with best affiliate marketing tracking software.</p>
 
         <Link to='/contact'>
              <div className={styles.link}>

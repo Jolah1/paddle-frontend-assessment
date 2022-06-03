@@ -12,7 +12,7 @@ const Navbar = () => {
               <Link to='/comingsoon'>
                     <div className={styles.logo}>
                     <img src={logo} alt="metricks" className={styles.metricks} />
-                    <p className='par'>METRICKS</p>
+                    <p className={styles.par}>METRICKS</p>
                     </div>
               </Link>
 
@@ -20,7 +20,7 @@ const Navbar = () => {
                   <ul>
                       <Link to='/about'><li>ABOUT US</li></Link>
                       <Link to='/blog'><li>BLOG</li></Link>
-                     <Link to='/contact'className='active'><li>CONTACT US</li></Link>
+                     <Link to='/contact'className={styles.active}><li>CONTACT US</li></Link>
                   </ul>
               </div>
 

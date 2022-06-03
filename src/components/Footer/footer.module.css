@@ -14,10 +14,15 @@
     gap: 15px;
     justify-content: center;
     margin-bottom: 25px;
+   
 }
 
 footer {
     text-align: center;
     color: white;
     margin: 50px;
+}
+
+.copyright {
+    font-size: small;
 }
