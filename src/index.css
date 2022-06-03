@@ -5,7 +5,7 @@
 }
 
 body{
-    background: linear-gradient(to bottom, rgb(110, 72, 160), rgb(4, 4, 29));
+  background-image: linear-gradient(to top, #cc208e 0%, #6713d2 100%);
     background-repeat: no-repeat;
     font-family: calibri;
     width: 100%;

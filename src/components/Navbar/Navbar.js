@@ -18,9 +18,9 @@ const Navbar = () => {
 
               <div className={styles.links}>
                   <ul>
-                      <Link to='/about'><li>About Us</li></Link>
-                      <Link to='/blog'><li>Blog</li></Link>
-                     <button id='btn'> <Link to='/contact' className='active'><li>Contact Us</li></Link></button>
+                      <Link to='/about'><li>ABOUT US</li></Link>
+                      <Link to='/blog'><li>BLOG</li></Link>
+                     <Link to='/contact'className='active'><li>CONTACT US</li></Link>
                   </ul>
               </div>
 

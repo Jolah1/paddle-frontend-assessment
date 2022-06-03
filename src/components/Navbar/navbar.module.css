@@ -20,13 +20,13 @@ ul li{
     display: inline;
     margin: 0 12px;
     color: white;
-    text-transform: uppercase;
     font-weight: lighter;
     font-size: small;
+    
 }
 
-.active{
-    background-color: rgb(30, 18, 136);
+ .active {
+    background-color: rgb(24, 18, 76);
     border-radius: 50px;
     padding: 6px;
 }
